@@ -1,7 +1,7 @@
 # Lab 3 – Individual Worksheet: V-Model and Traceability
 
 > **Course:** CS G523 – Software for Embedded Systems  
-> **Student Name:**  Amiket Saxena
+> **Student Name:**  Aniket Saxena
 > **Project:**  AOA Controller
 > **Team:**  P-2
 
